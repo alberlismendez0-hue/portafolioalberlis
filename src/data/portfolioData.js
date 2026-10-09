@@ -7,7 +7,7 @@ export const personalInfo = {
   name: "Alberlis Méndez",
   role: "Desarrolladora Frontend & Full Stack",
   headline: "Desarrolladora Frontend & Full Stack",
-  tagline: "Ingeneria de Sistemas. Especializada en la construcción de aplicaciones web funcionales con React, Python y arquitecturas basadas en APIs. Enfocada en escribir código limpio, interfaces intuitivas y soluciones estables listas para producción.",
+  tagline: "Ingeniera de Sistemas. Especializada en la construcción de aplicaciones web funcionales con React, Python y arquitecturas basadas en APIs. Enfocada en escribir código limpio, interfaces intuitivas y soluciones estables listas para producción.",
   availability: "Disponible para nuevas oportunidades laborales",
   location: "Remoto / Venezuela",
   email: "alberlismendez0@gmail.com",
